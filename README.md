@@ -1,175 +1,195 @@
-# **CyberWarFare Labs Black Friday Deals 2024**
+<h1 align="center"><b>CyberWarFare Labs Black Friday 2025 Deals</b></h1>
+<!-- <h1><b>CyberWarFare Labs Black Friday 2025 Deals</b></h1> -->
 
-Welcome to the CyberWarFare Labs Black Friday Deals repository for the year 2024! 🚀 Avail deals here : https://cyberwarfare.live/blackfriday/
+---
 
-![3200x1200 Website Thumbnail 3-2](https://github.com/user-attachments/assets/60a65426-6388-4f52-86e6-5c8269d2a383)
+<p align="center">
+Welcome to the CyberWarFare Labs Black Friday Cyber Sale repository for the year 2025!  
+🚀 <b>Avail deals here :</b> https://cyberwarfare.live/
+</p>
+<!-- <p>
+Welcome to the CyberWarFare Labs Black Friday Cyber Sale repository for the year 2025!  
+🚀 <b>Avail deals here :</b> https://cyberwarfare.live/
+</p> -->
 
-## About
+<!-- <p align="center">
+  <a href="https://cyberwarfare.live/">
+    <img src="./assets/web-img/CWL-Linkedin-AD-Post-3.jpg" width="80%" />
+  </a>
+</p> -->
+<p>
+  <a href="https://cyberwarfare.live/">
+    <img src="./assets/web-img/CWL-Linkedin-AD-Post-3.jpg" width="100%" />
+  </a>
+</p>
 
-This repository is your one-stop destination for information about CyberWarFare Labs' Black Friday deals. We've curated exclusive discounts to supercharge your learning journey. Explore exclusive Black Friday deals and discounts on CyberWarFare Labs' cutting-edge cyber security courses and certifications.
+---
 
-## Deals Preview
+<!-- ## 🛡️ About -->
 
-Explore the fantastic offers we have in store for you: Avail deals here : https://cyberwarfare.live/blackfriday/
+<h1 align="center">About</h1>
+This repository is your one-stop destination for information about CWL Black Friday Sale. We've curated exclusive discounts to supercharge your learning journey. Explore exclusive Black Friday deals and discounts on CyberWarFare Labs' cutting-edge cyber security courses and certifications.
+
+---
+
+<!-- ## 💥 Deals Preview -->
+<h1 align="center">Deals</h1>
+Explore the fantastic offers we have in store for you:  
+✨ **Avail deals here:** https://cyberwarfare.live/
 
 **Course Discounts:** Elevate your cyber security skills with our premium courses at unbeatable prices.
 
+<p align="center">
+  
+| [![](https://cyberwarfare.live/wp-content/uploads/2025/11/01-2.webp)](https://cyberwarfare.live/#platforms) | [![](https://cyberwarfare.live/wp-content/uploads/2025/11/02-2.webp)](https://cyberwarfare.live/black_friday/) | [![](https://cyberwarfare.live/wp-content/uploads/2025/11/03-2.webp)](https://cyberwarfare.live/premium-membership/) |
+|---------------|---------------|---------------|
 
-## CWL Offensive Red Team Operations Bundle (55% OFF)
-Original Price: $1,095.00 
-Black Friday Discount Price: **$537.75**  
-Coupon Code: **ATTACK55**  
+</p>
 
-[![CWL Offensive Red Team Operations Bundle (55%)](https://github.com/user-attachments/assets/2e0ed0b5-ee3b-4e80-9ff9-21c6c8fc514e)](https://cyberwarfare.live/cart/?add-to-cart=448815)
+---
+
+<h1 align="center">COURSE PREVIEW</h1>
+
+---
+
+## 1. Cybersecurity All Rounder Edition (84% OFF)
+- Original Price: ~~$619.00~~  
+- **Discount Price: $99.00**
+
+[![Cybersecurity All Rounder Edition (85%)](./assets/web-img/1.jpg)](https://cyberwarfare.live/cart/?add-to-cart=488295)
+
+---
+
+## 2. Red Team Pro Edition (76% OFF)
+- Original Price: ~~$843.00~~  
+- **Discount Price: $199.00**
+
+[![Red-Team-Pro-Edition-1280x720](./assets/web-img/2.jpg)](https://cyberwarfare.live/cart/?add-to-cart=488300)
+
+---
+
+## 3. Offensive Cloud Edition (80% OFF)
+- Original Price: ~~$1,946.00~~  
+- **Discount Price: $399.00**
+
+[![Offensive-Cloud-Edition-1280x720](./assets/web-img/3.jpg)](https://cyberwarfare.live/cart/?add-to-cart=488304)
+
+---
+
+## 4. Advanced Penetration Tester Edition (86% OFF)
+- Original Price: ~~$346.00~~  
+- **Discount Price: $49.00**
+
+[![Advanced-Penetration-Tester-Edition-1280x720](./assets/web-img/4.jpg)](https://cyberwarfare.live/cart/?add-to-cart=488307)
+
+---
+
+## 5. Blue Team Hunter Edition (78% OFF)
+- Original Price: ~~$455.00~~  
+- **Discount Price: $99.00**
+
+[![Blue-Team-Hunter-Edition-1280x720](./assets/web-img/5.jpg)](https://cyberwarfare.live/cart/?add-to-cart=488311)
+
+---
+
+## 6. Advanced Evasion Edition (86% OFF)
+- Original Price: ~~$1,097.00~~  
+- **Discount Price: $149.00**
+
+[![Advanced-Evasion-Edition-1280x720](./assets/web-img/6.jpg)](https://cyberwarfare.live/cart/?add-to-cart=488317)
+
+---
+
+## 7. Cybersecurity All in One Access (81% OFF)
+- Original Price: ~~$5,256.00~~  
+- **Discount Price: $999.00**
+
+[![Cybersecurity All Rounder Edition (85%)](./assets/web-img/7.jpg)](https://cyberwarfare.live/cart/?add-to-cart=488288)
+
+---
+
+## 8. CWL Exclusive Membership (71% OFF)
+- Original Price: ~~$5,256.00~~  
+- **Discount Price: $1,499.00**
+
+| [![LifeTime (71%)](./assets/web-img/Premium-Bundle-Product-Image.webp)](https://cyberwarfare.live/cart/?add-to-cart=461965) | ![Premium (71)](./assets/web-img/img.png) |
+|---|---|
 
 
+---
 
-## Blue to Purple Operations Bundle (55% OFF)  
-Original Price: $455.00  
-Black Friday Discount Price: **$204.75**  
-Coupon Code: **BLUETOPURPLE55**  
+<h1 align="center">NOTE</h1>
 
-[![Blue-Purple-Bundle-1280x720](https://github.com/user-attachments/assets/c6292ff7-fde1-44d5-b88f-b25927730fa2)](https://cyberwarfare.live/cart/?add-to-cart=448819)
+- **CyberWarFare Labs Offer valid till 30th November, 2025**
+- **No coupon code needed**
 
-
-
-## CWL Cloud Security Beginner to Advance Bundle (55% OFF)
-Original Price: $1,946.00  
-Black Friday Discount Price: **$875.70**  
-Coupon Code: **CLOUD55**  
-
-[![Cloud-Bundle-1280x720](https://github.com/user-attachments/assets/85a68f95-25fc-4496-8a17-c08fb96e7729)](https://cyberwarfare.live/cart/?add-to-cart=448823)
+---
 
 
-
-## CWL Stealth & Exploitation Tactics Bundle (55% OFF)
-Original Price: $856.00  
-Black Friday Discount Price: **$385.20**  
-Coupon Code: **EXPLOIT55**  
-
-[![Evasion-Bundle-1280x720](https://github.com/user-attachments/assets/49ae55b2-ea6a-4fce-9c03-d9a9101b7009)](https://cyberwarfare.live/cart/?add-to-cart=448826)
-
-
-
-## CWL Specialized Penetration Testing Track (81% OFF)
-Original Price: $522.00  
-Black Friday Discount Price: **$99.18**  
-Coupon Code: **CWL99**  
-
-[![Ethical-Hacking-Bundle-1280x720](https://github.com/user-attachments/assets/f280e693-2e7e-4f61-b26d-60de0d13f62a)](https://cyberwarfare.live/cart/?add-to-cart=448829)
-
-
-
-## CWL Advanced CyberWarfare Bundle (%60 OFF)
-Original Price: $$4,610.00
-Black Friday Discount Price: **$1,184.00**  
-Coupon Code: **CWLALLONE**  
- 
-[![Advance-Bundle-1280x720](https://github.com/user-attachments/assets/7b074fb7-dd3b-4468-bfe8-54a779831790)](https://cyberwarfare.live/cart/?add-to-cart=448833)
-
-## Avail CWL Black Friday Deals here : https://cyberwarfare.live/blackfriday/
-
-# NOTE: CyberWarFare Labs Offer valid till 2th November 2024
-
-## FAQ
+<h1 align="center">FAQ</h1>
 
 - **When do these sales start?**  
-  The sale will start around the **17th November** at **7PM IST**.
+  Sale starts **17th November, 2025** at 11 PM IST.
 
 - **When do these sales end?**  
-  Sales end on **2nd Dec 2024**.
+  Sales end on **30th November, 2025**.
 
-- **If I purchase now, can the labs be scheduled for later?**  
-  Yes! When you purchase, you'll get lifetime access to the study materials, and you can start immediately. The **30-day lab time** will ONLY start once you request it from our support team.
+- **Where to access the course content?**  
+  All courses are hosted on the CCSP Portal:  
+  👉 labs.cyberwarfare.live
 
-- **What are the lab expiry dates?**  
-  Study material access will be lifetime; however, labs & exams can be requested anytime within **2 years** of course purchase.
+- **What is included in the Black Friday bundle?**  
+  Lifetime study materials, **30 Days Lab Access**, and **2 Exam Attempts**.
 
-- **What is included in the Black Friday bundle purchase?**  
-  Enjoy lifetime access to study materials, **30 Days Lab Access**, and **2 Exam Attempts**.
+- **Can I upgrade to a bundle if I already own a course?**  
+  Yes — contact support (**support@cyberwarfare.live**) for a personalized upgrade offer.
 
-- **Certifications which do NOT have lab access?**  
-  CRT-ID, CPIA, CRT-COI, CWI-RTO, C3SA, CPTAv2 Community Edition.
+- **Can I schedule my exam & lab later?**  
+  Yes, at your convenience via labs.cyberwarfare.live.
 
-- **Certifications which do NOT have Accredible badges?**  
-  For **C3SA** and **CPTA v2 Community Edition**, we ONLY provide CWL digital certificates & NOT Accredible badges.
+- **Refund policy?**  
+  All Black Friday sales are final and non-refundable.
 
-- **Interested in a custom bundle?**  
-  For any specific requirements, connect with us via chatbot or email at [support@cyberwarfare.live](mailto:support@cyberwarfare.live).
-
-- **Offers for Group / Team Enrollments?**  
-  For Group / Team enrollments, we can provide **additional discounts**. Please reach out via chatbot or email at [support@cyberwarfare.live](mailto:support@cyberwarfare.live).
-
-- **What will I receive after purchase?**  
-  You will receive **2 emails**: one for payment confirmation and another for portal login credentials.
-
-- **I didn’t receive any email containing login credentials?**  
-  Wait for at least **30 minutes to 1 hour** and check your spam folder. If you still haven’t received it, email us at [support@cyberwarfare.live](mailto:support@cyberwarfare.live).
-
-- **CWL Website Sign-up / Sign-in or Registration Option?**  
-  Users will receive login credentials ONLY after course purchase via email. After that, you can log in at [portal.cyberwarfare.live/login](https://portal.cyberwarfare.live/login).
-
-- **Facing payment issues?**  
-  We ONLY use Stripe for the payment gateway. Please reach out via chatbot or email at [finance@cyberwarfare.live](mailto:finance@cyberwarfare.live) if you face any payment-related issues.
-
-- **Is there a refund policy?**  
-  Please check the course syllabus before making any payment. We adhere to a strict **NO refund** policy.
-
-- **Do you provide technical support?**  
-  Yes, we offer comprehensive technical support for all courses.
-
-## How to Use
-
-**Follow these steps to make the most of our Black Friday Deals:**
-
-1. **Explore:** Browse through the different sections to discover exciting deals.
-2. **Choose:** Select the courses or bundles that align with your learning goals.
-3. **Redeem:** Use the provided discount codes during checkout to unlock special pricing.
-
-## Sections
-
-- **Course Discounts:** Explore individual courses with substantial discounts.
-- **Certification Bundles:** Discover bundled offers that combine multiple courses for a comprehensive learning experience.
+---
 
 
-## Reviews
+<h1 align="center">How to Use</h1>
 
-https://securitycafe.ro/2022/08/01/certified-hybrid-multi-cloud-red-team-specialist-review-and-tips/
+1. **Explore** the deals  
+2. **Choose** your preferred courses  
+3. **Redeem** using the listed price at checkout
 
-https://diesec.home.blog/2022/12/08/review-certified-red-team-analyst-ccrta-cyberwarfare-labs/
+---
 
-https://www.redteamtrainingreviews.com/cyberwarfare/labs.html
+<h1 align="center">Reviews</h1>
 
-https://mstreet97.github.io/2021/06/14/Cyberwarfare-Labs-Red-Team-Analyst-Review.html
+https://www.linkedin.com/posts/joas-antonio-dos-santos_hacking-redteam-cybersecurity-activity-7170969674707263488-RKPX  
+https://www.linkedin.com/posts/kris-ho-kai-chun-2b4910255_thank-you-cyberwarfare-labs-i-activity-7264122229901205505-E3x1  
+https://www.linkedin.com/posts/0xsheet_crta-sheet-abdullah-ali-activity-7384514258681737216-V9-j  
+https://saadibabar.blogspot.com/2024/11/my-experience-earning-crta-certified.html  
+https://prince-adeshina.medium.com/certified-red-team-analyst-review-crta-cyberwarfare-labs-ef84361ad3ca  
+https://www.linkedin.com/posts/hafiz-talha-munir_c3sa-premium-certificate-ugcPost-7125415291970306048-i3_t  
+https://www.linkedin.com/posts/pasindu-dilshaan_kubernetes-security-redteam-activity-7396438423374319616-CoKf  
+https://www.linkedin.com/posts/gabriel-jesus-bielzao_adrts-activity-7391487228620816384-doqw  
+https://www.linkedin.com/posts/loduynht-buret_this-weekend-i-was-present-at-the-launch-activity-7127355387241979904-oJQW  
+https://www.linkedin.com/posts/ymiir_web-red-team-analyst-nik-amir-hakim-nik-activity-7396193378511646720-aTN7  
 
-https://prince-adeshina.medium.com/certified-red-team-analyst-review-crta-cyberwarfare-labs-ef84361ad3ca
+---
 
-https://www.linkedin.com/posts/hafiz-talha-munir_c3sa-premium-certificate-ugcPost-7125415291970306048-i3_t
 
-https://www.linkedin.com/posts/nishantkumar-singh_cybersecurity-certification-c3sa-activity-7125582415590285312-x2My
+<h1 align="center">Stay Connected</h1>
 
-https://www.linkedin.com/posts/ankit-kushwaha-5460a81a6_i-am-excited-to-announce-that-i-have-recently-activity-7122251045535154176-fOS7
+- **LinkedIn:** https://www.linkedin.com/company/cyberwarfarelabs/  
+- **Twitter:** https://twitter.com/cyberwarfarelab  
+- **Facebook:** https://www.facebook.com/cyberwarfarelabs  
+- **Instagram:** https://www.instagram.com/cyberwarfare_labs/  
+- **Youtube:** https://www.youtube.com/@CyberWarFareLabs
 
-https://www.linkedin.com/posts/loduynht-buret_this-weekend-i-was-present-at-the-launch-activity-7127355387241979904-oJQW
+---
 
-https://www.linkedin.com/posts/usamarajput34_cybersecurityenthusiast-purpleteaminggraduate-activity-7127747111403569152-syxY
+<h1 align="center">Feedback</h1>
 
-## Stay Connected
-Stay tuned for updates! Connect with us on social media and subscribe to our newsletter to receive real-time notifications about new deals.
+- For suggestions or questions: **support@cyberwarfare.live**
 
-## LinkedIn: https://www.linkedin.com/company/cyberwarfarelabs/
+---
 
-## Twitter: https://twitter.com/cyberwarfarelab
-
-## Facebook: https://www.facebook.com/cyberwarfarelabs
-
-## Instagram: https://www.instagram.com/cyberwarfare_labs/
-
-## Feedback
-Have suggestions or questions? Feel free to open an issue or contact us (info@cyberwarfare.live).
-
-Happy Learning! 🌐💡
-
-Discoverability
-
-cyber security black friday, cwlabs black friday, hacking black friday cwlabs cyber monday, information security cyber monday, cyber security cyber monday, cwlabs cyber monday, hacking cyber monday cwlabs deals, coupons, discounts, sales, pentest, penetration test, red team, blue team, purple team, thanksgiving
