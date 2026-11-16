@@ -18,7 +18,7 @@ checkout.
 4.  [Infinity Sale](#-infinity-sale)
 5.  [Premium Membership](#-premium-membership)
 6.  [Additional Offers](#-additional-offers)
-7.  [Individual Course Discounts](#-Individual Course Discounts)
+7.  [Individual Course Discounts](#-individual-course-discounts)
 8.  [FAQs](#-faqs)
 9.  [How to Claim Offers](#-how-to-claim-offers)
 10. [Stay Connected](#-stay-connected)
@@ -171,7 +171,7 @@ Explore curated cybersecurity bundles designed around different domains and skil
 
 Get more from your CWL learning experience with the Infinity Sale. Choose the access option that works best for you.
 
-### [Yearly Access](https://cyberwarfare.live/cwl-cyber-infinity)
+### [Yearly Access](https://infinity.cyberwarfare.live/)
 
 | Offer Detail | Information |
 |---|---:|
@@ -180,7 +180,7 @@ Get more from your CWL learning experience with the Infinity Sale. Choose the ac
 | Included Courses | **CRTA + AI-RTA** |
 | Coupon Code | `INFINITY49` |
 
-### [Monthly Access](https://cyberwarfare.live/cwl-cyber-infinity)
+### [Monthly Access](https://infinity.cyberwarfare.live/)
 
 | Offer Detail | Information |
 |---|---:|
