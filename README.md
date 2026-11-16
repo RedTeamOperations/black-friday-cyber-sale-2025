@@ -262,7 +262,7 @@ Explore individual Black Friday discounts across cybersecurity domains. The tabl
 | Red Team | [Certified Active Directory Red Team Specialist (AD-RTS)](https://cyberwarfare.live/certifications/active-directory-red-team-specialist-ad-rts) | $49.00 | **$9.00** | **81.63%** |
 | Red Team | [Certified Red Team Specialist (CRTS v2)](https://cyberwarfare.live/certifications/red-team-specialist-crts%20v2) | $99.00 | **$9.00** | **90.91%** |
 | Red Team | [Certified Red Team Infra Development (CRT-ID)](https://cyberwarfare.live/certifications/red-team-infra-developer-crt-id) | $29.00 | **$9.00** | **68.97%** |
-| Red Team | [Certified Enterprise Lateral Movement Specialist (CELMS)](https://cyberwarfare.live/certifications/red-team-infra-developer-crt-id) | $29.00 | **$9.00** | **68.97%** |
+| Red Team | [Certified Enterprise Lateral Movement Specialist (CELMS)](https://cyberwarfare.live/certifications/enterprise-lateral-movement-specialist-celms) | $29.00 | **$9.00** | **68.97%** |
 | Red Team | [Offensive C2 Operator](https://cyberwarfare.live/certifications/offensive-c2-analyst-oc2a) | $49.00 | **$9.00** | **81.63%** |
 | **Red Team Total** | **6 courses** | **$324.00** | **$54.00** | **83.33%** |
 | **Blue Team** | [Blue Teaming Fundamentals (BTF)](https://cyberwarfare.live/certifications/blue-team-fundamentals-btf) | $9.00 | **$5.00** | **44.44%** |
