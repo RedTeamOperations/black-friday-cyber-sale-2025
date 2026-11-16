@@ -18,7 +18,7 @@ checkout.
 4.  [Infinity Sale](#-infinity-sale)
 5.  [Premium Membership](#-premium-membership)
 6.  [Additional Offers](#-additional-offers)
-7.  [Individual Course Discounts](#-individual-course-discounts)
+7.  [Individual Certification Deals](#individual-certification-deals)
 8.  [FAQs](#-faqs)
 9.  [How to Claim Offers](#-how-to-claim-offers)
 10. [Stay Connected](#-stay-connected)
